@@ -149,6 +149,8 @@ logging.basicConfig(level=logging.WARNING)
 channel = "KASHYAPDABIO"
 menu = '''
 
+PRIYA NIBBI WILL YOU BE MY GF❤️ 
+LOVE YOU
 
 
 A: [check user own groups and channels]
