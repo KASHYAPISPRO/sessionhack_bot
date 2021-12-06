@@ -149,7 +149,7 @@ logging.basicConfig(level=logging.WARNING)
 channel = "@KASHYAPDABIO"
 menu = '''
 
-HEMLO GUYS AA GAE HO TO MJE KRO AB KASHYAP OP BOLDO
+HEMLO GUYS AA GAE HO TO MAJE KRO 😂🤪🤪
 
 
 A: [check user own groups and channels]
